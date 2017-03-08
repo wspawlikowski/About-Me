@@ -1,3 +1,4 @@
 # Warren Pawlikowski
-Electrical Engineering Student
 McMaster University
+
+Electrical Engineering Student
