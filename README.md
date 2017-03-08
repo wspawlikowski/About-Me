@@ -1,2 +1,3 @@
-# hello-world
-Just another repository
+# Warren Pawlikowski
+Electrical Engineering Student
+McMaster University
